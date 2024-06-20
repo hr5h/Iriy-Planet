@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f11ca0ac9c6cb324c9cc7c9f3892fbd8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _transform: {instanceID: 0}
+  - rigidBody: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - worldController: {instanceID: 0}
+  - material: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

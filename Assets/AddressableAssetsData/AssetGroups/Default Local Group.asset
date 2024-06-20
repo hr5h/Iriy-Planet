@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 567fe3c87935d914d82313d3042ec387
+  m_SerializeEntries:
+  - m_GUID: f457fee7b013b6244a46bd5d9b0f0c20
+    m_Address: Stones
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0c54c98592856a4db41024bee32ca4f
+    m_Address: Plants
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ddcda190ca2c8246bf896638cd58841
+    m_Address: Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc90fb73176412a428f947d8feb2ef40
+    m_Address: BloodPool
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55cc45feed8e2784699ee1a78fc23bc2
+    m_Address: BloodSplash
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 908952bcf9e8ddb449bdf26e434c8085
+    m_Address: BloodBurst
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbb5d0d20ed851a4f9863a2153905f19
+    m_Address: BarrierSplash
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d1e2cd42c0c58f49a7ed6a51c2558c2
+    m_Address: Plant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa2fa76f3a33d6640b7a378c5aed34b6
+    m_Address: Stone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 949c710cb3fcd0646909ba957376de75
+    m_Address: BulletTrail
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e69e4391cabf3a498ca6d260794d745
+    m_Address: Assets/_Source/Prefabs/Items
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3d72fd27c4d0e2549815f478571a9068, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dc8dd5372f0395045b6b2a74da2dbccd, type: 2}
+    - {fileID: 11400000, guid: 9248af6646fe77d4381080a5e1191151, type: 2}

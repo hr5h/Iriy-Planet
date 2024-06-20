@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b01fbb04fecf91439327e0f7b6a7a2b, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 2ed86479d92ac4e4695cba22afacbb19, type: 3}
+  Title: "\u0414\u0440\u043E\u0431\u043E\u0432\u0438\u043A \"\u0411\u043B\u0438\u0437\u043E\u0441\u0442\u044C\""
+  Description: "\u041E\u0440\u0443\u0436\u0435\u0435  \u0434\u043B\u044F \u043F\u0435\u0440\u0435\u0441\u0442\u0440\u0435\u043B\u043E\u043A
+    \u043D\u0430 \u0431\u043B\u0438\u0436\u043D\u0438\u0445 \u0434\u0438\u0441\u0442\u0430\u043D\u0446\u0438\u044F\u0445.
+    \u041F\u0435\u0440\u0435\u0434 \u043D\u0438\u043C \u043D\u0438\u043A\u0442\u043E
+    \u043D\u0435 \u0441\u043C\u043E\u0436\u0435\u0442 \u0443\u0441\u0442\u043E\u044F\u0442\u044C
+    \u043D\u0430 \u043D\u043E\u0433\u0430\u0445."
+  Cost: 1200
+  questItem: 0
+  ammoType: "\u0434\u0440\u043E\u0431\u044C"
+  clip: 5
+  reloadTime: 5
+  conditionMax: 1000
+  damage: 30
+  spreadMin: 10
+  spreadMax: 35
+  spreadReduction: 10
+  spreadIncreace: 10
+  rate: 0.5
+  range: 300
+  bulletSpeed: 1100
+  movementCoef: 40
+  oneHanded: 0
+  bulletColor: {r: 0.7924528, g: 0.7330961, b: 0.3095051, a: 1}
+  firePointColor: {r: 0.7264151, g: 0.61023074, b: 0.25630116, a: 0.6784314}
+  bulletWidth: 3
+  bulletTrailTime: 1
+  bulletMass: 1.5
+  IsShotgun: 1
+  damageReduce: 1
+  shootAudio: {fileID: 8300000, guid: 66e249c8b1b02b0438aebc561394280c, type: 3}

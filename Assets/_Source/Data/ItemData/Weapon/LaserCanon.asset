@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b01fbb04fecf91439327e0f7b6a7a2b, type: 3}
+  m_Name: LaserCanon
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -4196816739337042925, guid: 69f3f1100cb6e3d45a427b4945385c0d, type: 3}
+  Title: "\u0410\u0440\u0431\u0430\u043B\u0435\u0442 \"\u0420\u0430\u0437\u0440\u0443\u0448\u0438\u0442\u0435\u043B\u044C\""
+  Description: "\u0427\u0440\u0435\u0437\u0432\u044B\u0447\u0430\u0439\u043D\u043E
+    \u0440\u0435\u0434\u043A\u043E\u0435 \u0438 \u043E\u043F\u0430\u0441\u043D\u043E\u0435
+    \u043E\u0440\u0443\u0436\u0438\u0435. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430
+    \u0443\u0447\u0435\u043D\u044B\u0445, \u043A\u0430\u043A\u0438\u043C-\u0442\u043E
+    \u043E\u0431\u0440\u0430\u0437\u043E\u043C \u043F\u043E\u043F\u0430\u0432\u0448\u0430\u044F
+    \u043D\u0430 \u043F\u043B\u0430\u043D\u0435\u0442\u0443 \u0418\u0440\u0438\u0439
+    \u043F\u0440\u044F\u043C\u0438\u043A\u043E\u043C \u0438\u0437 \u0441\u0435\u043A\u0440\u0435\u0442\u043D\u044B\u0445
+    \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0439 \u043E\u0440\u0431\u0438\u0442\u0430\u043B\u044C\u043D\u043E\u0439
+    \u0441\u0442\u0430\u043D\u0446\u0438\u0438"
+  Cost: 8000
+  questItem: 0
+  ammoType: "\u0431\u043E\u043B\u044C\u0448\u0438\u0435 \u0430\u043A\u043A\u0443\u043C\u0443\u043B\u044F\u0442\u043E\u0440\u044B"
+  clip: 1
+  reloadTime: 1
+  conditionMax: 100
+  damage: 80
+  spreadMin: 1
+  spreadMax: 3
+  spreadReduction: 1
+  spreadIncreace: 0.3
+  rate: 0.4
+  range: 1500
+  bulletSpeed: 8000
+  movementCoef: 40
+  oneHanded: 0
+  bulletColor: {r: 1, g: 0, b: 0, a: 1}
+  firePointColor: {r: 0.7529412, g: 0, b: 0, a: 1}
+  bulletWidth: 15
+  bulletTrailTime: 0.05
+  bulletMass: 0
+  IsShotgun: 0
+  damageReduce: 0
+  shootAudio: {fileID: 8300000, guid: ceea705bead92c649b2bd7f6a560ffac, type: 3}

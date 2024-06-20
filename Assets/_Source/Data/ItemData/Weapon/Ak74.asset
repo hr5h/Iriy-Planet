@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b01fbb04fecf91439327e0f7b6a7a2b, type: 3}
+  m_Name: Ak74
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 15ab223291306f746a12d9205f388327, type: 3}
+  Title: "\u0410\u043A-74"
+  Description: "\u041F\u0440\u043E\u0432\u0435\u0440\u0435\u043D\u043D\u044B\u0439
+    \u0432\u0440\u0435\u043C\u0435\u043D\u0435\u043C \u0430\u0432\u0442\u043E\u043C\u0430\u0442,
+    \u043A\u043E\u0442\u043E\u0440\u043E\u043C\u0443 \u043B\u044E\u0434\u0438 \u043D\u0430\u0448\u043B\u0438
+    \u043F\u0440\u0438\u043C\u0435\u043D\u0435\u043D\u0438\u0435 \u0434\u0430\u0436\u0435
+    \u0432 \u043A\u043E\u0441\u043C\u043E\u0441\u0435"
+  Cost: 2500
+  questItem: 0
+  ammoType: 5.45x39
+  clip: 30
+  reloadTime: 1
+  conditionMax: 1000
+  damage: 20
+  spreadMin: 5
+  spreadMax: 14
+  spreadReduction: 4
+  spreadIncreace: 0.7
+  rate: 0.15
+  range: 1200
+  bulletSpeed: 2500
+  movementCoef: 20
+  oneHanded: 0
+  bulletColor: {r: 1, g: 0.9104993, b: 0, a: 1}
+  firePointColor: {r: 0.8962264, g: 0.7252586, b: 0.012682426, a: 1}
+  bulletWidth: 7
+  bulletTrailTime: 0.1
+  bulletMass: 0.2
+  IsShotgun: 0
+  damageReduce: 0
+  shootAudio: {fileID: 8300000, guid: 5af3870c48f170d4da89e846316ed975, type: 3}

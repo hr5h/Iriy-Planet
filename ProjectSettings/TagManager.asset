@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WorldController
+  - Monster
+  - Human
+  - Weapon
+  - Inventory
+  - InventoryUI
+  - HumanAi
+  - Bonfire
+  - AudioController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - IgnoreBullet
+  - Water
+  - UI
+  - Layer Minimap
+  - Bullet
+  - Barrier
+  - AirMonster
+  - WhiteFly
+  - Campfire
+  - QuestArea
+  - Map
+  - Background
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

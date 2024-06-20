@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b9e60ee1d032f47905e235fd535195, type: 3}
+  m_Name: erusBook
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -489325965231703184, guid: d8b81509f0b858f42898fecb5d65d7bc, type: 3}
+  Title: "\u041A\u043D\u0438\u0433\u0430 \u041F\u0440\u043E\u0444\u0435\u0441\u0441\u043E\u0440\u0430"
+  Description: "\u0417\u0430\u043D\u0438\u043C\u0430\u043B\u044C\u043D\u0430\u044F
+    \u043A\u043D\u0438\u0436\u043A\u0430. \u0418\u043D\u0442\u0435\u0440\u0435\u0441\u043D\u043E,
+    \u043E \u0447\u0435\u043C \u043E\u043D\u0430?"
+  Cost: 50000
+  questItem: 1
